@@ -95,7 +95,7 @@ finalize the apply.
 
 ------------------------------------------------
 
--> # Terraform Import, State Moves, and Modules <-
+-> # Terraform Import, State Moves, Modules, etc. <-
 
 Terraform has several additional functions not covered here
 that factor heavily in making this tool extremely versatile
