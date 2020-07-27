@@ -1,4 +1,4 @@
-# oddu-terraform-intorduction
+# oddu-terraform-introduction
 This repository is meant for a general/basic introduction to Terraform
 
 ## Prerequisites
